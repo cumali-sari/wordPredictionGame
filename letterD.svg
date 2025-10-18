@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166666 21.166667"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="letterD.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8779181"
+     inkscape:cx="333.61412"
+     inkscape:cy="39.937844"
+     inkscape:window-width="2560"
+     inkscape:window-height="1316"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 21.166667,10.604652 c 0,1.923817 -0.49916,3.667569 -1.497485,5.231255 -0.987106,1.563686 -2.305112,2.776731 -3.954026,3.639131 -1.144145,0.597041 -2.422897,1.028241 -3.836248,1.293599 -1.40214,0.265353 11.047647,-11.0896995 9.06982,-10.098681 L 0,21.166667 V 0 L 20.881431,10.819682 C 22.965958,11.899776 10.645027,0.15162856 12.080818,0.45489142 c 1.447003,0.29378393 2.669664,0.70128638 3.66799,1.22251888 1.704998,0.9003097 3.034224,2.099137 3.987678,3.5964877 0.953454,1.4973507 1.430181,3.2742669 1.430181,5.330754 z m -3.482909,-0.04264 c 0,-1.6584579 -0.34212,-3.0563027 -1.026367,-4.1935284 C 15.973143,5.2312542 14.952393,4.335684 13.595125,3.6817809 12.608019,3.2079373 11.55922,2.8809828 10.448726,2.7009232 9.3382333,2.5113846 8.0090074,2.4166125 6.4610486,2.4166125 H 3.3314795 V 18.75006 h 3.1295691 c 1.6040427,0 3.0005721,-0.09951 4.1895884,-0.298523 1.200229,-0.199018 2.299502,-0.568616 3.297828,-1.108795 1.2451,-0.672861 2.176115,-1.558952 2.793052,-2.658274 0.628163,-1.099321 0.942241,-2.473469 0.942241,-4.122454 z"
+       id="text28"
+       style="font-size:50.8px;fill:#0b0b0b;fill-opacity:0.959381;stroke-width:0.164966"
+       aria-label="&#10;D"
+       sodipodi:nodetypes="scccsccsccssssccsccscccs" />
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166666 21.166667"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="letterU.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8779181"
+     inkscape:cx="478.98787"
+     inkscape:cy="227.91196"
+     inkscape:window-width="2560"
+     inkscape:window-height="1316"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 17.635257,11.370911 c 0,1.378292 -0.1378,2.582171 -0.4134,3.611636 -0.267945,1.020957 -0.711967,1.871754 -1.332068,2.552393 -0.589478,0.646606 -1.278479,1.118799 -2.067002,1.416578 -0.788522,0.297779 -1.70719,0.446668 -2.756002,0.446668 -1.0717784,0 -2.005757,-0.157397 -2.8019356,-0.472192 C 7.4686713,18.611199 6.7988097,18.147514 6.2552646,17.53494 5.6351641,16.837285 5.1873137,15.994996 4.9117137,15.008071 4.6437691,14.021146 4.5097967,12.808759 4.5097967,11.370911 V 0 L 0,21.166667 6.7834985,11.498531 c 0.5696083,-0.811831 0.061245,1.841976 0.1837335,2.437535 0.1301442,0.595558 0.3445,1.135814 0.643067,1.620769 0.3368446,0.553019 0.7923504,0.969909 1.3665178,1.250672 0.5818228,0.280764 1.2784782,0.421145 2.0899682,0.421145 0.819145,0 1.515801,-0.136127 2.089968,-0.408383 0.574168,-0.280763 1.033501,-0.701908 1.378002,-1.263434 0.298566,-0.484955 0.509094,-1.037973 0.631583,-1.659055 0.130145,-0.629591 0.195217,-1.40807 0.195217,-2.33544 L 21.166667,20.804224 17.635257,0 Z"
+       id="text46"
+       style="font-size:50.8px;fill:#0b0b0b;fill-opacity:0.959381;stroke-width:0.129129"
+       aria-label="U"
+       sodipodi:nodetypes="sccsssccsccscccscccsccs" />
+  </g>
+</svg>
